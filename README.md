@@ -16,7 +16,3 @@ Colleges are the place where we come to home mentioning about losing our new ear
 - MongoDB (Database)
 
 # LostAndFoundFrontend
-# LostAndFoundFrontend
-# LostAndFoundFrontend
-# LostAndFoundFrontend
-# LostAndFoundFrontend
